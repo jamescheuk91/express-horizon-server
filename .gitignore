@@ -1,0 +1,7 @@
+node_modules
+*.pem
+config/production.json
+npm-debug.log
+
+
+config/default.json

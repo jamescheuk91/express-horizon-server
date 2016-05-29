@@ -1,0 +1,16 @@
+{
+  "project_name": "excite2",
+  "secure_ws": true,
+  "auto_create_collection": true,
+  "auto_create_index": true,
+  "permissions": false,
+  "auth": {
+    "token_secret": "",
+    "allow_anonymous": true,
+    "allow_unauthenticated": true
+  },
+  "rdb": {
+    "host": "192.168.99.100",
+    "port": 32778
+  }
+}
